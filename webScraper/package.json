@@ -1,0 +1,22 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "blob-util": "^2.0.2",
+    "node-tesseract": "^0.2.7",
+    "node-tesseract-ocr": "^2.2.1",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.3.1",
+    "tesseract.js": "^2.1.5",
+    "text-from-image": "^1.1.1",
+    "textract": "^0.20.0"
+  }
+}
